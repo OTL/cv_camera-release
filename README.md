@@ -1,3 +1,26 @@
+## cv_camera (melodic) - 0.4.0-1
+
+The packages in the `cv_camera` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic cv_camera` on `Wed, 08 May 2019 04:30:21 -0000`
+
+The `cv_camera` package was released.
+
+Version of package(s) in repository `cv_camera`:
+
+- upstream repository: https://github.com/OTL/cv_camera
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## cv_camera (kinetic) - 0.3.0-0
 
 The packages in the `cv_camera` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cv_camera --track kinetic --rosdistro kinetic` on `Tue, 03 Oct 2017 07:53:18 -0000`
