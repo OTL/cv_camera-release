@@ -2,6 +2,13 @@
 Changelog for package cv_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2020-05-30)
+------------------
+* Use OpenCV 3.x+ enums instead of 2.x defines (#28)
+* Allow specifying camera name for camera_info_manager (#26)
+  I think this is reasonable. Thanks.
+* Contributors: Alexey Rogachevskiy
+
 0.4.0 (2019-05-08)
 ------------------
 * Update for Melodic release
