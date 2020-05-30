@@ -1,3 +1,26 @@
+## cv_camera (noetic) - 0.5.0-1
+
+The packages in the `cv_camera` repository were released into the `noetic` distro by running `/usr/bin/bloom-release cv_camera --track noetic --rosdistro noetic --new-track` on `Sat, 30 May 2020 00:29:43 -0000`
+
+The `cv_camera` package was released.
+
+Version of package(s) in repository `cv_camera`:
+
+- upstream repository: https://github.com/OTL/cv_camera
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## cv_camera (melodic) - 0.4.0-1
 
 The packages in the `cv_camera` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic cv_camera` on `Wed, 08 May 2019 04:30:21 -0000`
